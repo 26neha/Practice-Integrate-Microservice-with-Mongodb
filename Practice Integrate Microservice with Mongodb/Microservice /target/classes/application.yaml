@@ -1,0 +1,11 @@
+server:
+  port: 9025
+
+spring:
+  application:
+    name: Product Microservice for Practice
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: ShoppingMicro
